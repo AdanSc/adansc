@@ -1,10 +1,5 @@
 ![Vista previa de AdanSc](images/ogimage.webp)
 
-# ¡Hola! Soy AdanSc 👋
-
-Soy desarrollador web especializado en **Laravel**, enfocado en construir aplicaciones robustas, mantenibles y orientadas a empresas.  
-Me interesa crear soluciones bien estructuradas, con código claro y una base sólida para escalar.
-
 ## 🚀 Acerca de mí
 - 🔭 Actualmente trabajando en: **Noctua**, un proyecto ambicioso de entrenamiento y capacitación de agentes de ventas para empresas
 - 💬 Pregúntame sobre: Laravel, arquitectura de aplicaciones, Blade, Livewire y buenas prácticas
