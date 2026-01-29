@@ -1,3 +1,5 @@
+![Vista previa de AdanSc](images/ogimage.webp)
+
 # ¡Hola! Soy AdanSc 👋
 
 Soy desarrollador web especializado en **Laravel**, enfocado en construir aplicaciones robustas, mantenibles y orientadas a empresas.  
